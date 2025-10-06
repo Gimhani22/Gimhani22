@@ -10,7 +10,7 @@
 ### Programming Languages
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript"/>
+        <img src="https://skillicons.dev/icons?i=c,cs,c++,java,python,javascript"/>
     </a>
 </p>
 
