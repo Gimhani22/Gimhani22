@@ -42,6 +42,8 @@
     </a>
 </p>
 
+[![An image of @gimhani22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gimhani22)](https://holopin.io/@gimhani22)
+
 ## Connect With Me
 
 <p align="left">
